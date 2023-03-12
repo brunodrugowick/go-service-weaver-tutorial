@@ -18,7 +18,7 @@ it does etc.
 
 Clicking through you gonna get to a page like this:
 
-![img.png](img.png)
+![img.png](README/img.png)
 
 `CTRL+C` to stop everything. Or wait the 5M `ab` requests to end.
 
